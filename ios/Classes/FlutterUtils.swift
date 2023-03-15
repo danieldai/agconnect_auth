@@ -20,7 +20,7 @@ class FlutterUtils {
     map["email"] = user?.email
     map["isAnonymous"] = user?.isAnonymous
     map["passwordSetted"] = user?.passwordSetted
-    map["phoneNumber"] = user?.phone
+    map["phone"] = user?.phone
     map["photoUrl"] = user?.photoUrl
     map["providerId"] = user?.providerId.rawValue
     map["uid"] = user?.uid
